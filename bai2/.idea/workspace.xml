@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caa4867d-8244-495f-9271-18e8152deb75" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="7.703023139461822E-8" />
+      <entry key="MS500" value="0.03778611486979254" />
+      <entry key="S2" value="0.4408928573107053" />
+      <entry key="S5" value="0.7212531875382635" />
+      <entry key="S10" value="0.8831953373946755" />
+      <entry key="S30" value="1.462399661438851" />
+      <entry key="S60" value="1.9884579591619498" />
+      <entry key="M2" value="2.4114864540190686" />
+      <entry key="M5" value="2.740974348674212" />
+      <entry key="M10" value="2.8661870565017202" />
+      <entry key="M15" value="2.9098068570586304" />
+      <entry key="M30" value="2.954403732529299" />
+      <entry key="H1" value="2.9770755276526333" />
+      <entry key="H2" value="2.9885060005932043" />
+      <entry key="H4" value="2.994245037055279" />
+      <entry key="D1" value="2.999039731594274" />
+      <entry key="W1" value="2.9998627916416414" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.000008406868865" />
+      <entry key="MS500" value="1.0965888187059984" />
+      <entry key="S2" value="1.5574867919631656" />
+      <entry key="S5" value="1.7986671018616263" />
+      <entry key="S10" value="1.9912587838894344" />
+      <entry key="S30" value="2.6659939106528965" />
+      <entry key="S60" value="3.159258383437713" />
+      <entry key="M2" value="3.5228960085499983" />
+      <entry key="M5" value="3.7933449017204564" />
+      <entry key="M10" value="3.893827950316775" />
+      <entry key="M15" value="3.9285700177761576" />
+      <entry key="M30" value="3.9639564700976866" />
+      <entry key="H1" value="3.9818952970089567" />
+      <entry key="H2" value="3.990926812687533" />
+      <entry key="H4" value="3.9954581846701513" />
+      <entry key="D1" value="3.9992423044637215" />
+      <entry key="W1" value="3.999891739979105" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.190920962849641E-5" />
+      <entry key="MS500" value="0.1885217473985288" />
+      <entry key="S2" value="1.3752013367508884" />
+      <entry key="S5" value="2.1822227788047748" />
+      <entry key="S10" value="2.671898245909952" />
+      <entry key="S30" value="4.022017055630142" />
+      <entry key="S60" value="5.079717709460727" />
+      <entry key="M2" value="5.8948072964821705" />
+      <entry key="M5" value="6.516809896757159" />
+      <entry key="M10" value="6.750946400187529" />
+      <entry key="M15" value="6.832258620928208" />
+      <entry key="M30" value="6.9152641051129695" />
+      <entry key="H1" value="6.957413397357827" />
+      <entry key="H2" value="6.978651737798233" />
+      <entry key="H4" value="6.989312091364301" />
+      <entry key="D1" value="6.998216765172029" />
+      <entry key="W1" value="6.999745205185837" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3J1P4PRzMgUoVi17DmJYDHiSeaX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="bai2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="bai2" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="bai2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="bai2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa4867d-8244-495f-9271-18e8152deb75" name="Changes" comment="" />
+      <created>1788825410996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788825410996</updated>
+      <workItem from="1788825412357" duration="186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
